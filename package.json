@@ -1,6 +1,6 @@
 {
   "name": "@soficom/universal-analytics",
-  "version": "0.3.10",
+  "version": "0.3.17",
   "description": "A node module for Google's Universal Analytics tracking",
   "main": "index.js",
   "scripts": {
@@ -17,7 +17,7 @@
     "tracking"
   ],
   "dependencies": {
-    "async": "0.9.x",
+    "async": "1.5.x",
     "@soficom/underscore": "latest",
     "node-uuid": "1.x",
     "request": "2.x"
